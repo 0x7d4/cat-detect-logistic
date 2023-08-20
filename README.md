@@ -1,10 +1,8 @@
 # cat-or-not
-Different ML/DL approaches for cat or not-cat image classification. 
-Learning materials and investigations for a simple image classification task.
+Learning materials and investigations for a one-label (cat/non-cat) image classification task.
 
 *Note*: Work in progress
 
-| Approach | Accuracy |
-| --- | --- |
-| 1 neuron sigmoid | 70% |
-...
+| Approach | Accuracy | Raw | Jax | Torch | TF |
+| --- | --- | --- | --- | --- | --- |
+| 1 neuron sigmoid | 70% | ✅ | ✅ | ✅ | ✅ |
