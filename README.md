@@ -6,3 +6,4 @@ Learning materials and investigations for a one-label (cat/non-cat) image classi
 | Approach | Accuracy | Raw | Jax | Torch | TF |
 | --- | --- | --- | --- | --- | --- |
 | 1 neuron sigmoid | 70% | ✅ | ✅ | ✅ | ✅ |
+...
