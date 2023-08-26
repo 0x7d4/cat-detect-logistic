@@ -1,9 +1,2 @@
 # cat-or-not
-Deep learning materials and investigations for a one-label (cat/non-cat) image classification task.
-
-*Note*: Work in progress
-
-| Approach | Accuracy | Raw | Jax | Torch | TF |
-| --- | --- | --- | --- | --- | --- |
-| 1 neuron sigmoid | 70% | ✅ | ✅ | ✅ | ✅ |
-...
+Simple logistic regression for a one label (cat vs non-cat) image classification
