@@ -1,2 +1,2 @@
-# cat-or-not
-Simple logistic regression for a one label (cat vs non-cat) image classification
+# is-it-cat
+Computer vision plaground for a one label (cat vs non-cat) image classification
